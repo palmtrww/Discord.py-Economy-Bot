@@ -13,4 +13,4 @@ for fn in os.listdir("./cogs"):
 	else:
 		print(f"{fn[:-3]} could not be loaded!")
 
-bot.run("ODU1NTAwMDg0OTUwNTk3NjMz.YMzYig.OidZfWgwCsejNPPZckUNl6uAGKs")
+bot.run("You're Bot Token")
