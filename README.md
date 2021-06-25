@@ -10,3 +10,4 @@ A discord economy bot made with the discord.py library
 - Copy that link and paste it into you're broswer and invite it to any server you want
 -  Then in a command promot with the directory of Discord.py-Economy-Bot Type in: ```pip install -r requirements.txt```
 - Open bot.py, and paste you're bot token in bot.run
+- Then in a command prompt type: ```python bot.py```
